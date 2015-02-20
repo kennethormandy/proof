@@ -1,0 +1,57 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FiraMono-Bold
+FamilyName:Fira Mono
+StyleName:Bold
+MenuName:Fira Mono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Fira Mono Bold
+WritingScript:Roman
+OutlineFileName:\FiraMono-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:95396
+FileModTime:1405074306
+NameArray:0,Mac,4,Fira Mono Bold
+NameArray:0,Win,1,Fira Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FiraMono-Regular
+FamilyName:Fira Mono
+StyleName:Regular
+MenuName:Fira Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fira Mono
+WritingScript:Roman
+OutlineFileName:\FiraMono-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:92656
+FileModTime:1405074306
+NameArray:0,Mac,4,Fira Mono
+NameArray:0,Win,1,Fira Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\LICENSE
+FileLength:4530
+FileModTime:1424388997
+%EndFont
+
